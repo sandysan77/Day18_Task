@@ -1,0 +1,11 @@
+#placeImage {
+    width: 500px;
+    height: 100%;
+
+}
+
+#clickButton {
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
